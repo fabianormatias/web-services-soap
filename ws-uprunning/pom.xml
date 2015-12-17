@@ -6,8 +6,8 @@
 		<artifactId>web-services-soap</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.g6.ws.cookbook</groupId>
-	<artifactId>ws-cookbook</artifactId>
+	<groupId>com.g6.ws.uprunning</groupId>
+	<artifactId>ws-uprunning</artifactId>
 
 	<dependencies>
 		<dependency>
